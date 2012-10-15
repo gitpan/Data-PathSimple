@@ -56,7 +56,7 @@ The latest version can be found at:
 
 Watch the repository and keep up with the latest changes:
 
-&nbsp;&nbsp;&nbsp;&nbsp;[https://github.com/alfie/Data-PathSimple/toggle_watch](https://github.com/alfie/Data-PathSimple/toggle_watch)
+&nbsp;&nbsp;&nbsp;&nbsp;[https://github.com/alfie/Data-PathSimple/subscription](https://github.com/alfie/Data-PathSimple/subscription)
 
 # SUPPORT
 

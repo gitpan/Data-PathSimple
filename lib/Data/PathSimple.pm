@@ -4,7 +4,7 @@ use strict;
 use warnings;
 
 use version 0.77;
-our $VERSION = qv("v1.0.0");
+our $VERSION = qv("v1.0.1");
 
 use base 'Exporter';
 our @EXPORT_OK = qw{
