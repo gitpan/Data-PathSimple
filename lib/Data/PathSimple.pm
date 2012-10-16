@@ -4,7 +4,7 @@ use strict;
 use warnings;
 
 use version 0.77;
-our $VERSION = qv("v1.0.1");
+our $VERSION = qv("v1.0.2");
 
 use base 'Exporter';
 our @EXPORT_OK = qw{
@@ -211,7 +211,7 @@ The latest version can be found at:
 
 Watch the repository and keep up with the latest changes:
 
-  https://github.com/alfie/Data-PathSimple/toggle_watch
+  https://github.com/alfie/Data-PathSimple/subscription
 
 =head1 SUPPORT
 

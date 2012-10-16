@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Data-PathSimple
-version:            v1.0.1
+version:            v1.0.2
 abstract:           Navigate and manipulate data structures using paths
 author:
     - Alfie John <alfiej@opera.com>
